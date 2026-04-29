@@ -1,1 +1,1 @@
-# laço-repeticao-for
+# laco-repeticao-for
